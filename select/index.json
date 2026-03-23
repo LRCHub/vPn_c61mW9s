@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Smart",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2026-03-23T09:15:06.756157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dive (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/01_Dive_(Smart_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dive (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/02_Dive_(Smart_Studio_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here She Comes Now (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/03_Here_She_Comes_Now_(Smart_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here She Comes Now (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/04_Here_She_Comes_Now_(Smart_Studio_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Immodium (Breed) [Smart Sessions]",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/05_Immodium_(Breed)_[Smart_Sessions]_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Immodium (Breed) (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/06_Immodium_(Breed)_(Smart_Studio_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In Bloom (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/07_In_Bloom_(Smart_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In Bloom (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/08_In_Bloom_(Smart_Studio_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lithium (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/09_Lithium_(Smart_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lithium (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/10_Lithium_(Smart_Studio_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pay to Play (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/11_Pay_to_Play_(Smart_Studio_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Polly (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/12_Polly_(Smart_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Polly (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": true,
+      "path": "select/13_Polly_(Smart_Studio_Sessions)_Nirvana.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sappy (Smart Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/14_Sappy_(Smart_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sappy (Smart Studio Sessions)",
+      "artist": "Nirvana",
+      "has_synced": false,
+      "path": "select/15_Sappy_(Smart_Studio_Sessions)_Nirvana.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Smart Dogs",
+      "artist": "Kula Shaker",
+      "has_synced": true,
+      "path": "select/16_Smart_Dogs_Kula_Shaker.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Man Smart, Woman Smarter",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/17_Man_Smart,_Woman_Smarter_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Heart Is Not So Smart",
+      "artist": "DeBarge",
+      "has_synced": true,
+      "path": "select/18_The_Heart_Is_Not_So_Smart_DeBarge.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Man Smart",
+      "artist": "M People",
+      "has_synced": false,
+      "path": "select/19_Man_Smart_M_People.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I Gotta Get Smart",
+      "artist": "El Perro del Mar",
+      "has_synced": false,
+      "path": "select/20_I_Gotta_Get_Smart_El_Perro_del_Mar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smart",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Smart_LE_SSERAFIM.txt"
+    }
+  ]
+}
