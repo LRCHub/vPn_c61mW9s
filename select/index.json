@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Smart",
   "base_artist": "LE SSERAFIM",
-  "createdAt": "2026-03-23T09:15:06.756157Z",
+  "createdAt": "2026-03-23T09:19:10.134514Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -171,6 +171,15 @@
       "artist": "LE SSERAFIM",
       "has_synced": false,
       "path": "select/pl_01_Smart_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Smart",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/localdb_01_Smart_LE_SSERAFIM.txt",
+      "repo_name": "vPn_c61mW9s"
     }
   ]
 }
